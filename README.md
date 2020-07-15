@@ -1,0 +1,2 @@
+# BacteriaGrowthModel
+Bacteria Growth Model
